@@ -131,6 +131,7 @@ Note that the following system dependencies are required and need to be linked i
 * CoreText.framework
 * CoreVideo.framework
 * Foundation.framework
+* libc++.tbd
 * libbz2.tbd
 * libiconv.tbd
 * OpenGLES.framework
